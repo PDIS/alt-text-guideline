@@ -7,16 +7,18 @@
 ## 原則
 
 1. 描述，不臆測
-
-忠實描述圖片的實際內容，不寫圖片未呈現的資訊，不寫。
-
-2. 獨特性（辨識性）
-
-
-
+   - 忠實描述圖片的實際內容。
+   - 不寫圖片未呈現的資訊。
+   - 不做價值觀或感受性的判斷。
+2. 情境脈絡與獨特性（辨識性）
+   - 如果從視覺上，圖片跟社群媒體發文內容之間可以「看出」某種關聯性，圖片替代文字也應該維持同樣的關聯性。
+   - 如果使用多張相似圖片，各圖片的替代文字應該實現明確對應，足以讓使用者理解相似圖片的不同之處。
 3. 簡潔、聚焦
-
-
+   - 聚焦在重要的人、事、時、地、物。
+   - 避免不斷重複相同的內容，除非原本的企圖就是要創造「再三重複」的感受。
+4. 同等參與
+   - 圖片從視覺上帶給使用者什麼內容，就用替代文字傳達同等內容。
+   - 不要擅自決定「這張圖片不重要」或者「使用者不會想知道這張圖片的內容」。
 
 ## 這樣做（範例說明）
 
@@ -29,9 +31,16 @@
 ## 避免這樣做
 
 
+## 社群媒體的圖片特性
+
+社群媒體發文的圖片跟一般網頁上的圖片內容有些不同特性，以下說明這些特性以及相關的技巧或實務考量：
+
 ## 輔助工具
 
-- [Alt or Not 瀏覽器擴充套件](https://www.abitofaccess.com/alt-or-not)
+- Social visual alt text 瀏覽器擴充套件
+  - [Chrome/Edge 版](https://chrome.google.com/webstore/detail/social-visual-alt-text/bkpbmomfemcjdeekdffmbohifpndodmi)
+  - [Firofox 版](https://addons.mozilla.org/zh-TW/firefox/addon/social-visual-alt-text/)
+- [Alt or Not 瀏覽器擴充套件](https://www.abitofaccess.com/alt-or-not) (Chrome, Edge, Firefox)
 
 ## 相關參考資訊
 
@@ -39,3 +48,4 @@
 - [Twitter: How to make images accessible for people](https://help.twitter.com/en/using-twitter/picture-descriptions)
 - [編輯 Instagram 貼文的替代文字](https://help.instagram.com/503708446705527)
 - [US Federal Social Media Accessibility Toolkit Hackpad](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)
+- [Forum One: Best Practices: Creating Alt Text for Social Media](https://www.forumone.com/insights/blog/best-practices-creating-alt-text-for-social-media/)
