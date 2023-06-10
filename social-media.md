@@ -29,7 +29,7 @@
 
 ## 這樣做（實例說明）
 
-註：部分實例原本為英文內容，為了便於理解，一律翻譯改寫。
+註：部分實例原本為英文內容，為了便於理解，除了應保留英文才能正確說明的情況外，一律翻譯改寫。
 
 ### 1. 文字圖片
 
@@ -37,12 +37,18 @@
 
 ### 2. 文字畫面擷圖
 
-
+https://twitter.com/audreyt/status/1660092613066883073
 
 ### 3. 文字圖卡
 
+https://twitter.com/MOHW_Taiwan/status/1654702919336476673
 https://twitter.com/audreyt/status/1663522664613564416
-
+https://twitter.com/MOHW_Taiwan/status/1652524011400859648
+https://twitter.com/iingwen/status/1665243970757365760
+https://twitter.com/iingwen/status/1664580640132706304
+https://twitter.com/iingwen/status/1661760190344216577
+https://twitter.com/iingwen/status/1661657040828379139
+https://twitter.com/iingwen/status/1658401568369299457
 
 ### 4. 照片
 
@@ -55,11 +61,11 @@ https://twitter.com/Taiwan_in_UK/status/1663475263605227522
 
 ### 5. 資訊圖表及表格
 
-
+https://twitter.com/merylkevans/status/1667223537419952134
 
 ### 6. 繪圖
 
-
+https://twitter.com/TAIWANmoda/status/1659158220039127040
 
 ## 避免這樣做
 
