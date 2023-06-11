@@ -2,7 +2,7 @@
 
 在 Facebook, Twitter, Instagram 這些社群媒體發文，免不了配上幾張圖片。任何圖片都應該加上替代文字，這是種讓電腦軟體讀取圖片內容「文字版本」的資訊，是確保所有身心障礙者都能同等參與社群的關鍵基礎。
 
-這份簡短指南說明圖片（包括 GIF 動畫圖片）的「_替代文字_」應該如何撰寫，**不涉及**如何挑選或製作圖片，也不涉及社群媒體文字內容或影音內容。
+這份簡短指南說明圖片（包括 GIF 動畫圖片）的「替代文字」應該如何撰寫，**不涉及**如何挑選或製作圖片，也不涉及社群媒體文字內容或影音內容。
 
 ## 指引
 
@@ -36,7 +36,7 @@
 
 #### 替代文字範例
 
-> 引述 Collective Intelligence Project 的宣言文字。標題： We should all get to decide what to do about AI. 內文： It is uncontroversial to state that technological progress should be directed towards the collective good. It is, however, difficult to determine what is actually good for the collective.
+> 引述 Collective Intelligence Project 的宣言文字。<br><br>標題：<br>We should all get to decide what to do about AI.<br><br>內文：<br>It is uncontroversial to state that technological progress should be directed towards the collective good. It is, however, difficult to determine what is actually good for the collective.
 
 #### 解析討論
 
@@ -48,16 +48,16 @@
 
 <summary>範例 2-1
 
-![](https://pbs.twimg.com/media/FwnVbp3acAES-8e?format=jpg&name=thumb)
+![TGC 網頁畫面截圖](https://pbs.twimg.com/media/FwnVbp3acAES-8e?format=jpg&name=thumb)
 
 </summary>
 
-![](https://pbs.twimg.com/media/FwnVbp3acAES-8e?format=jpg&name=small)
+![TGC 網頁畫面截圖，顯示就業金卡的第 2 至 4 種資格條件](https://pbs.twimg.com/media/FwnVbp3acAES-8e?format=jpg&name=small)
 ([來源](https://twitter.com/audreyt/status/1660092613066883073))
 
 #### 替代文字範例
 
-> 
+> TGC 網頁畫面截圖，顯示就業金卡的其他資格條件：<br><br>2. Previously or currently holding a position in a digital economy-related industry or field in another country or in Taiwan with a most recent monthly salary of at least NT$160,000.<br><br>3. The person has graduated with a doctorate from one of the top 500 universities listed in the most recent QS World University Rankings, Times Higher Education World University Rankings, or U.S. News & World Report Rankings.<br><br>4. Those with expertise in the products or services required in the digital economy-related industries or fields, have obtained a doctoral degree in related fields at a domestic or foreign university, and have either received domestic or foreign awards recognized by the Ministry of Digital Affairs, or have more than four years of work experience in related fields.
 
 #### 解析討論
 
@@ -69,16 +69,16 @@
 
 <summary>範例 3-1
 
-![](https://pbs.twimg.com/media/FvavhGtaMAQgOMw?format=jpg&name=thumb)
+![說明因應作為的圖卡](https://pbs.twimg.com/media/FvavhGtaMAQgOMw?format=jpg&name=thumb)
 
 </summary>
 
-![](https://pbs.twimg.com/media/FvavhGtaMAQgOMw?format=jpg&name=small)
+![後續因應作為：全面要求好市多回收已售出仍於效期內之科克蘭冷凍梅果類產品，並暫停其輸入報驗。](https://pbs.twimg.com/media/FvavhGtaMAQgOMw?format=jpg&name=small)
 ([來源](https://twitter.com/MOHW_Taiwan/status/1654702919336476673))
 
 #### 替代文字範例
 
-> 
+> 後續因應作為：全面要求好市多回收已售出仍於效期內之科克蘭冷凍梅果類產品，並暫停其輸入報驗。（衛生福利部食品藥物管理署，2023 年 5 月 6 日）
 
 #### 解析討論
 
@@ -88,16 +88,16 @@
 
 <summary>範例 3-2
 
-![](https://pbs.twimg.com/media/FxYEHa6aIAEHGLV?format=jpg&name=thumb)
+![引述文字](https://pbs.twimg.com/media/FxYEHa6aIAEHGLV?format=jpg&name=thumb)
 
 </summary>
 
-![](https://pbs.twimg.com/media/FxYEHa6aIAEHGLV?format=jpg&name=small)
+![引述 Audrey Tang 的文字](https://pbs.twimg.com/media/FxYEHa6aIAEHGLV?format=jpg&name=small)
 ([來源](https://twitter.com/audreyt/status/1663522664613564416))
 
 #### 替代文字範例
 
-> 
+> 引述文字：<br>Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.<br><br>署名：<br>Audrey Tang, Minister of Digital Affairs and Chair of the National Institute of Cyber Security<br><br>Audrey T. 手寫簽名
 
 #### 解析討論
 
@@ -107,16 +107,16 @@
 
 <summary>範例 3-3
 
-![](https://pbs.twimg.com/media/Fu7xxwVakAAovdJ?format=jpg&name=thumb)
+![帶有圖示的文字圖卡](https://pbs.twimg.com/media/Fu7xxwVakAAovdJ?format=jpg&name=thumb)
 
 </summary>
 
-![](https://pbs.twimg.com/media/Fu7xxwVakAAovdJ?format=jpg&name=small)
+![衛生福利部邀請您響應國際不打小孩日](https://pbs.twimg.com/media/Fu7xxwVakAAovdJ?format=jpg&name=small)
 ([來源](https://twitter.com/MOHW_Taiwan/status/1652524011400859648))
 
 #### 替代文字範例
 
-> 
+> 圖文卡片：衛生福利部邀請您響應國際不打小孩日<br><br>線條圖呈現：大手握小手，愛心洋溢<br><br>以小圖示呈現民眾詢問：「孩子總是搞毛我，我該怎麼辦？」
 
 #### 解析討論
 
