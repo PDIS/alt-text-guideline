@@ -23,85 +23,100 @@
 
 ### 1. 純文字圖片
 
-<sub>https://twitter.com/TAIWANmoda/status/1662991159965388800</sub>
+<details>
+
+<summary>範例一
+
+https://twitter.com/TAIWANmoda/status/1662991159965388800<br>
+![引述文字](https://pbs.twimg.com/media/FxMpiy-agAILgih?format=jpg&name=thumb)
+
+</summary>
+
 ![引述文字。標題： We should all get to decide what to do about AI. 內文： It is uncontroversial to state that technological progress should be directed towards the collective good. It is, however, difficult to determine what is actually good for the collective.](https://pbs.twimg.com/media/FxMpiy-agAILgih?format=jpg&name=small)
+
+#### 替代文字範例
+
 > 引述 Collective Intelligence Project 的宣言文字。標題： We should all get to decide what to do about AI. 內文： It is uncontroversial to state that technological progress should be directed towards the collective good. It is, however, difficult to determine what is actually good for the collective.
 
+</details>
 
 
 ### 2. 文字畫面擷圖
 
-<sub>https://twitter.com/audreyt/status/1660092613066883073</sub>
+<sub>https://twitter.com/audreyt/status/1660092613066883073</sub><br>
 ![](https://pbs.twimg.com/media/FwnVbp3acAES-8e?format=jpg&name=small)
 
 ### 3. 文字圖卡
 
-<sub>https://twitter.com/MOHW_Taiwan/status/1654702919336476673</sub>
+<sub>https://twitter.com/MOHW_Taiwan/status/1654702919336476673</sub><br>
 ![](https://pbs.twimg.com/media/FvavhGtaMAQgOMw?format=jpg&name=small)
 
-<sub>https://twitter.com/audreyt/status/1663522664613564416</sub>
+<sub>https://twitter.com/audreyt/status/1663522664613564416</sub><br>
 ![](https://pbs.twimg.com/media/FxYEHa6aIAEHGLV?format=jpg&name=small)
 
-<sub>https://twitter.com/MOHW_Taiwan/status/1652524011400859648</sub>
+<sub>https://twitter.com/MOHW_Taiwan/status/1652524011400859648</sub><br>
 ![](https://pbs.twimg.com/media/Fu7xxwVakAAovdJ?format=jpg&name=small)
 
-<sub>https://twitter.com/iingwen/status/1665243970757365760</sub>
+<sub>https://twitter.com/iingwen/status/1665243970757365760</sub><br>
 ![](https://pbs.twimg.com/media/Fxwhm_XacAABJhX?format=jpg&name=small)
 
-<sub>https://twitter.com/iingwen/status/1664580640132706304</sub>
+<sub>https://twitter.com/iingwen/status/1664580640132706304</sub><br>
 ![](https://pbs.twimg.com/media/Fxm6RRzacAAhzpG?format=jpg&name=small)
 
-<sub>https://twitter.com/iingwen/status/1661760190344216577</sub>
+<sub>https://twitter.com/iingwen/status/1661760190344216577</sub><br>
 ![](https://pbs.twimg.com/media/Fw-94a6aUAESuUu?format=jpg&name=small)
 
-<sub>https://twitter.com/iingwen/status/1661657040828379139</sub>
+<sub>https://twitter.com/iingwen/status/1661657040828379139</sub><br>
 ![](https://pbs.twimg.com/media/Fw9ivP5akAEeJKq?format=jpg&name=small)
 
-<sub>https://twitter.com/iingwen/status/1658401568369299457</sub>
+<sub>https://twitter.com/iingwen/status/1658401568369299457</sub><br>
 ![](https://pbs.twimg.com/media/FwPTbFSaEAEpRAq?format=jpg&name=small)
 
 
 ### 4. 照片
 
-<sub>https://twitter.com/tekmankara/status/1660185793472913410</sub>
+<sub>https://twitter.com/tekmankara/status/1660185793472913410</sub><br>
 ![](https://pbs.twimg.com/media/Fwoe13kaUAA3yEJ?format=jpg&name=small)
 
 
-<sub>https://twitter.com/TW_Eswatini/status/1660944115704680448</sub>
+<sub>https://twitter.com/TW_Eswatini/status/1660944115704680448</sub><br>
 ![](https://pbs.twimg.com/media/FwzSbt_aMAADypZ?format=jpg&name=small)
 
 
-<sub>https://twitter.com/TAIWANmoda/status/1664282392981536772</sub>
+<sub>https://twitter.com/TAIWANmoda/status/1664282392981536772</sub><br>
 ![](https://pbs.twimg.com/media/Fxiztu6akAAK3CS?format=jpg&name=small)
 ![](https://pbs.twimg.com/media/Fxi3LfiaYAQ-qo0?format=jpg&name=small)
 ![](https://pbs.twimg.com/media/Fxi3WNaakAIX9p1?format=jpg&name=small)
 
 
-<sub>https://twitter.com/TAIWANmoda/status/1665329233772810242</sub>
+<sub>https://twitter.com/TAIWANmoda/status/1665329233772810242</sub><br>
 ![](https://pbs.twimg.com/media/Fxxk6DyakAAdvba?format=jpg&name=small)
 
 
-<sub>https://twitter.com/TAIWANmoda/status/1666818298649133056</sub>
+<sub>https://twitter.com/TAIWANmoda/status/1666818298649133056</sub><br>
 ![](https://pbs.twimg.com/media/FyG5kBDaIAMltQM?format=jpg&name=small)
 
 
-<sub>https://twitter.com/Taiwan_in_UK/status/1663475263605227522</sub>
+<sub>https://twitter.com/Taiwan_in_UK/status/1663475263605227522</sub><br>
 ![](https://pbs.twimg.com/media/FxXY6CIWYAARCvb?format=jpg&name=small)
 ![](https://pbs.twimg.com/media/FxXY6CKXgAIBCpf?format=jpg&name=small)
 ![](https://pbs.twimg.com/media/FxXY9JyWcAI4gKV?format=jpg&name=small)
 
+<sub>https://twitter.com/audreyt/status/1667716953736347648</sub>
+![A MacBook Pro in airplane mode, running llama.cpp with ggml_metal support.](https://pbs.twimg.com/media/FyToHvxakAEPm3h?format=jpg&name=small)
+> A MacBook Pro (M2 Max, 96 GB RAM) in airplane mode, running llama.cpp with ggml_metal support. The screen reads:<br><br>Text transcript of a never ending dialog, where Audrey Tang interacts with an AI named OpenLLaMa.<br>OpenLLaMa is helpful, friendly, having been trained on everything posted at digitalminister.tw and never fails to answer Audrey Tang's requests immediately and with details and precision.<br>There are no annotations like (30 seconds passed...) or (internal monologue), just what Audrey Tang and OpenLLaMa say aloud to each other.<br>The dialog lasts for years, the entirety of it is shared below. It's 10000 pages long.<br>The transcript only includes text, it does not include markup like HTML and Markdown.<br><br>Audrey Tang: What year and month is it?<br>OpenLLaMa: We are in 2023-06.<br>Audrey Tang: What time is it?<br>OpenLLaMa: It is 09:44.<br>Audrey Tang: Please write a compassionate, kind and sincere reply on my behalf, to the following invitation
 
 
 ### 5. 資訊圖表及表格
 
-<sub>https://twitter.com/merylkevans/status/1667223537419952134</sub>
+<sub>https://twitter.com/merylkevans/status/1667223537419952134</sub><br>
 ![](https://pbs.twimg.com/media/FyMq-JnXgAAcQ6q?format=jpg&name=small)
 
 
 
 ### 6. 繪圖
 
-<sub>https://twitter.com/TAIWANmoda/status/1659158220039127040</sub>
+<sub>https://twitter.com/TAIWANmoda/status/1659158220039127040</sub><br>
 ![](https://pbs.twimg.com/media/FwaA4RpaUAIcOQI?format=jpg&name=small)
 
 
