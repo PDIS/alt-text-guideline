@@ -38,7 +38,7 @@
 
 #### 替代文字範例
 
-> 引述 Collective Intelligence Project 的宣言文字。<br><br>標題：<br>We should all get to decide what to do about AI.<br><br>內文：<br>It is uncontroversial to state that technological progress should be directed towards the collective good. It is, however, difficult to determine what is actually good for the collective.
+> 引述 Collective Intelligence Project 宣言。<br><br>標題：<br>We should all get to decide what to do about AI.<br><br>內文：<br>It is uncontroversial to state that technological progress should be directed towards the collective good. It is, however, difficult to determine what is actually good for the collective.
 
 #### 解析討論
 
@@ -59,7 +59,7 @@
 
 #### 替代文字範例
 
-> TGC 網頁畫面截圖，顯示就業金卡的其他資格條件：<br><br>2. Previously or currently holding a position in a digital economy-related industry or field in another country or in Taiwan with a most recent monthly salary of at least NT$160,000.<br><br>3. The person has graduated with a doctorate from one of the top 500 universities listed in the most recent QS World University Rankings, Times Higher Education World University Rankings, or U.S. News & World Report Rankings.<br><br>4. Those with expertise in the products or services required in the digital economy-related industries or fields, have obtained a doctoral degree in related fields at a domestic or foreign university, and have either received domestic or foreign awards recognized by the Ministry of Digital Affairs, or have more than four years of work experience in related fields.
+> TGC 網頁畫面截圖，列出就業金卡的其他資格條件：<br><br>2. Previously or currently holding a position in a digital economy-related industry or field in another country or in Taiwan with a most recent monthly salary of at least NT$160,000.<br><br>3. The person has graduated with a doctorate from one of the top 500 universities listed in the most recent QS World University Rankings, Times Higher Education World University Rankings, or U.S. News & World Report Rankings.<br><br>4. Those with expertise in the products or services required in the digital economy-related industries or fields, have obtained a doctoral degree in related fields at a domestic or foreign university, and have either received domestic or foreign awards recognized by the Ministry of Digital Affairs, or have more than four years of work experience in related fields.
 
 #### 解析討論
 
@@ -118,7 +118,7 @@
 
 #### 替代文字範例
 
-> 圖文卡片：衛生福利部邀請您響應國際不打小孩日<br><br>線條圖呈現：大手握小手，愛心洋溢<br><br>以小圖示呈現民眾詢問：「孩子總是搞毛我，我該怎麼辦？」
+> 圖文卡片：<br>衛生福利部邀請您響應國際不打小孩日<br><br>線條圖：<br>大手握小手，旁邊是愛心<br><br>民眾詢問圖示，引述：「孩子總是搞毛我，我該怎麼辦？」
 
 #### 解析討論
 
