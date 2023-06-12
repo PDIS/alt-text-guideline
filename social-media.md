@@ -288,18 +288,18 @@
 
 <details>
 
-<summary>範例 4-4: 少人數合照
+<summary>範例 4-4: 兩人合照
 
 ![](https://pbs.twimg.com/media/Fxxk6DyakAAdvba?format=jpg&name=thumb)
 
 </summary>
 
-![數位發展部部長唐鳳（右）及吐瓦魯國司法、通訊暨外交部長 Simon Robert Kofe（左）](https://pbs.twimg.com/media/Fxxk6DyakAAdvba?format=jpg&name=small)
+![數位發展部部長唐鳳（右）及吐瓦魯國司法、通訊暨外交部長 Simon Robert Kofe](https://pbs.twimg.com/media/Fxxk6DyakAAdvba?format=jpg&name=small)
 ([來源](https://twitter.com/TAIWANmoda/status/1665329233772810242))
 
 #### 替代文字範例
 
-> 數位發展部部長唐鳳（右）手持吐瓦魯傳統手風扇，與吐瓦魯國司法、通訊暨外交部長 Simon Robert Kofe（左）在會議室內站立合照。
+> 數位發展部部長唐鳳（右）手持吐瓦魯傳統手風扇，與吐瓦魯國司法、通訊暨外交部長 Simon Robert Kofe 在會議室內站立合照。
 
 #### 解析討論
 
