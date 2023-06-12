@@ -15,7 +15,7 @@
 | 同等參與 | <ul><li>圖片從視覺上帶給使用者什麼內容，就用替代文字傳達同等內容。</li></ul> | <ul><li>不要擅自決定「這張圖片不重要」或「使用者不會想知道這張圖片的內容」而寫出含糊或不屬於圖片內容的替代文字。</li></ul> |
 | 不求完美，但求進步 | <ul><li>建立回顧檢討的機制與習慣。</li><li>下次寫出更好的替代文字就是進步。</li></ul> | <ul><li>不需要為了替代文字而刪文重發。</li></ul> |
 
-## 這樣做更好（實例說明）
+## 可以這樣寫（實例說明）
 
 本節以實際的社群媒體圖片內容為例，說明如何撰寫圖片替代文字。點擊縮圖上方的「範例」文字可展開完整圖片及說明，圖片後均附來源連結，接著提供較佳的替代文字範例，最後說明原本替代文字有哪些做得好及值得改進的細節。
 
@@ -118,7 +118,7 @@
 
 #### 替代文字範例
 
-> 圖文卡片：<br>衛生福利部邀請您響應國際不打小孩日<br><br>線條圖：<br>大手握小手，旁邊是愛心<br><br>民眾詢問圖示，引述：「孩子總是搞毛我，我該怎麼辦？」
+> 圖文卡片：衛生福利部邀請您，響應國際不打小孩日<br><br>線條圖：大手握小手，旁邊是愛心<br><br>民眾詢問圖示，引述：「孩子總是搞毛我，我該怎麼辦？」
 
 #### 解析討論
 
@@ -128,16 +128,16 @@
 
 <summary>範例 3-4
 
-![](https://pbs.twimg.com/media/Fxwhm_XacAABJhX?format=jpg&name=thumb)
+![新聞畫面評論](https://pbs.twimg.com/media/Fxwhm_XacAABJhX?format=jpg&name=thumb)
 
 </summary>
 
-![](https://pbs.twimg.com/media/Fxwhm_XacAABJhX?format=jpg&name=small)
+![蔡英文總統對 2023 年三月貴州地鐵站群眾聚集的新聞發表評論](https://pbs.twimg.com/media/Fxwhm_XacAABJhX?format=jpg&name=small)
 ([來源](https://twitter.com/iingwen/status/1665243970757365760))
 
 #### 替代文字範例
 
-> 
+> 2023 年三月份，群眾聚集在貴州的地鐵站的照片，底下引述蔡英文總統 @iingwen 對此發表的意見：<br><br>Here in Taiwan we enjoy democracy, freedom, and many avenues to express ourselves politically and creatively. this nourishes Taiwan's culture and allows young people to grow and develop as individuals.<br>I look forward to the day that the outh in China will be able to sing and press themselves freely, with passion, not fear.<br><br>（天安門事件 34 週年紀念）
 
 #### 解析討論
 
@@ -147,16 +147,16 @@
 
 <summary>範例 3-5
 
-![](https://pbs.twimg.com/media/Fxm6RRzacAAhzpG?format=jpg&name=thumb)
+![新聞事件合照](https://pbs.twimg.com/media/Fxm6RRzacAAhzpG?format=jpg&name=thumb)
 
 </summary>
 
-![](https://pbs.twimg.com/media/Fxm6RRzacAAhzpG?format=jpg&name=small)
+![蕭美琴、Ingrid Larson、鄧振中、Sarah Bianchi、Laura Rosenberger 簽署「台美 21 世紀貿易倡議」後合照](https://pbs.twimg.com/media/Fxm6RRzacAAhzpG?format=jpg&name=small)
 ([來源](https://twitter.com/iingwen/status/1664580640132706304))
 
 #### 替代文字範例
 
-> 
+> 駐美代表蕭美琴（左二）、美國在台協會執行理事 Ingrid Larson（右三）、行政院政務委員鄧振中（左一）、美國副貿易代表 Sarah Bianchi（右二）四人手持簽署完成的「台美 21 世紀貿易倡議」，及美國在台協會理事主席 Laura Rosenberger（右一）合照，背景文字寫著：<br><br>Signing of the first agreement under the Taiwan-US Initiative on 21st-Century Trade<br><br>照片底下文字：<br><br>The most comprehensive trade agreement between Taiwan and the US since 1979<br>and a mark of our progress toward singing trade agreements with major trading countries<br><br>署名 @iingwen
 
 #### 解析討論
 
