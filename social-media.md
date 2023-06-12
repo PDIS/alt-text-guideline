@@ -27,9 +27,9 @@
 
 <details>
 
-<summary>範例 1-1
+<summary>範例 1-1: 引述文字
 
-![引述文字](https://pbs.twimg.com/media/FxMpiy-agAILgih?format=jpg&name=thumb)
+![](https://pbs.twimg.com/media/FxMpiy-agAILgih?format=jpg&name=thumb)
 
 </summary>
 
@@ -48,9 +48,9 @@
 
 <details>
 
-<summary>範例 2-1
+<summary>範例 2-1: TGC 網頁畫面截圖
 
-![TGC 網頁畫面截圖](https://pbs.twimg.com/media/FwnVbp3acAES-8e?format=jpg&name=thumb)
+![](https://pbs.twimg.com/media/FwnVbp3acAES-8e?format=jpg&name=thumb)
 
 </summary>
 
@@ -69,9 +69,9 @@
 
 <details>
 
-<summary>範例 3-1
+<summary>範例 3-1: 說明因應作為的圖卡
 
-![說明因應作為的圖卡](https://pbs.twimg.com/media/FvavhGtaMAQgOMw?format=jpg&name=thumb)
+![](https://pbs.twimg.com/media/FvavhGtaMAQgOMw?format=jpg&name=thumb)
 
 </summary>
 
@@ -88,9 +88,9 @@
 
 <details>
 
-<summary>範例 3-2
+<summary>範例 3-2: 引述文字
 
-![引述文字](https://pbs.twimg.com/media/FxYEHa6aIAEHGLV?format=jpg&name=thumb)
+![](https://pbs.twimg.com/media/FxYEHa6aIAEHGLV?format=jpg&name=thumb)
 
 </summary>
 
@@ -107,9 +107,9 @@
 
 <details>
 
-<summary>範例 3-3
+<summary>範例 3-3: 帶有圖示的文字圖卡
 
-![帶有圖示的文字圖卡](https://pbs.twimg.com/media/Fu7xxwVakAAovdJ?format=jpg&name=thumb)
+![](https://pbs.twimg.com/media/Fu7xxwVakAAovdJ?format=jpg&name=thumb)
 
 </summary>
 
@@ -126,9 +126,9 @@
 
 <details>
 
-<summary>範例 3-4
+<summary>範例 3-4: 新聞畫面評論
 
-![新聞畫面評論](https://pbs.twimg.com/media/Fxwhm_XacAABJhX?format=jpg&name=thumb)
+![](https://pbs.twimg.com/media/Fxwhm_XacAABJhX?format=jpg&name=thumb)
 
 </summary>
 
@@ -145,9 +145,9 @@
 
 <details>
 
-<summary>範例 3-5
+<summary>範例 3-5: 新聞事件合照
 
-![新聞事件合照](https://pbs.twimg.com/media/Fxm6RRzacAAhzpG?format=jpg&name=thumb)
+![](https://pbs.twimg.com/media/Fxm6RRzacAAhzpG?format=jpg&name=thumb)
 
 </summary>
 
@@ -164,7 +164,7 @@
 
 <details>
 
-<summary>範例 3-6
+<summary>範例 3-6: 出席活動亮點
 
 ![](https://pbs.twimg.com/media/Fw-94a6aUAESuUu?format=jpg&name=thumb)
 
@@ -183,7 +183,7 @@
 
 <details>
 
-<summary>範例 3-7
+<summary>範例 3-7: 照片拼貼加字
 
 ![](https://pbs.twimg.com/media/Fw9ivP5akAEeJKq?format=jpg&name=thumb)
 
@@ -202,7 +202,7 @@
 
 <details>
 
-<summary>範例 3-8
+<summary>範例 3-8: 發表談話強調字句
 
 ![](https://pbs.twimg.com/media/FwPTbFSaEAEpRAq?format=jpg&name=thumb)
 
@@ -223,7 +223,7 @@
 
 <details>
 
-<summary>範例 4-1
+<summary>範例 4-1: 非正面人物情境照片
 
 ![](https://pbs.twimg.com/media/Fwoe13kaUAA3yEJ?format=jpg&name=thumb)
 
@@ -242,7 +242,7 @@
 
 <details>
 
-<summary>範例 4-2
+<summary>範例 4-2: 官方直播畫面
 
 ![](https://pbs.twimg.com/media/FwzSbt_aMAADypZ?format=jpg&name=thumb)
 
@@ -261,7 +261,7 @@
 
 <details>
 
-<summary>範例 4-3
+<summary>範例 4-3: 會議全貌照片集
 
 ![](https://pbs.twimg.com/media/Fxiztu6akAAK3CS?format=jpg&name=thumb)
 ![](https://pbs.twimg.com/media/Fxi3LfiaYAQ-qo0?format=jpg&name=thumb)
@@ -288,7 +288,7 @@
 
 <details>
 
-<summary>範例 4-4
+<summary>範例 4-4: 少人數合照
 
 ![](https://pbs.twimg.com/media/Fxxk6DyakAAdvba?format=jpg&name=thumb)
 
@@ -307,7 +307,7 @@
 
 <details>
 
-<summary>範例 4-5
+<summary>範例 4-5: 多人合照
 
 ![](https://pbs.twimg.com/media/FyG5kBDaIAMltQM?format=jpg&name=thumb)
 
@@ -326,7 +326,7 @@
 
 <details>
 
-<summary>範例 4-6
+<summary>範例 4-6: 多人合照及相似照片集
 
 ![](https://pbs.twimg.com/media/FxXY6CIWYAARCvb?format=jpg&name=thumb)
 ![](https://pbs.twimg.com/media/FxXY6CKXgAIBCpf?format=jpg&name=thumb)
@@ -349,7 +349,7 @@
 
 <details>
 
-<summary>範例 4-7
+<summary>範例 4-7: 翻拍電腦畫面
 
 ![A MacBook Pro](https://pbs.twimg.com/media/FyToHvxakAEPm3h?format=jpg&name=thumb)
 
@@ -368,7 +368,7 @@
 
 <details>
 
-<summary>範例 4-8
+<summary>範例 4-8: 景物照片
 
 ![](https://pbs.twimg.com/media/FyZ0oAPaYAEpewH?format=jpg&name=thumb)
 
@@ -389,7 +389,7 @@
 
 <details>
 
-<summary>範例 5-1
+<summary>範例 5-1: 資料表格
 
 ![](https://pbs.twimg.com/media/FyMq-JnXgAAcQ6q?format=jpg&name=thumb)
 
@@ -410,7 +410,7 @@
 
 <details>
 
-<summary>範例 6-1
+<summary>範例 6-1: 象徵性線條色塊繪圖
 
 ![](https://pbs.twimg.com/media/FwaA4RpaUAIcOQI?format=jpg&name=thumb)
 
