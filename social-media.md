@@ -137,7 +137,7 @@
 
 #### 替代文字範例
 
-> 2023 年三月份，群眾聚集在貴州的地鐵站的照片，底下引述蔡英文總統 @iingwen 對此發表的意見：<br><br>Here in Taiwan we enjoy democracy, freedom, and many avenues to express ourselves politically and creatively. this nourishes Taiwan's culture and allows young people to grow and develop as individuals.<br>I look forward to the day that the outh in China will be able to sing and press themselves freely, with passion, not fear.<br><br>（天安門事件 34 週年紀念）
+> 2023 年三月份，群眾聚集在貴州的地鐵站的照片，底下引述蔡英文總統（推特帳號 @iingwen）對此發表的意見：<br><br>Here in Taiwan we enjoy democracy, freedom, and many avenues to express ourselves politically and creatively. this nourishes Taiwan's culture and allows young people to grow and develop as individuals.<br>I look forward to the day that the outh in China will be able to sing and press themselves freely, with passion, not fear.<br><br>（天安門事件 34 週年紀念）
 
 #### 解析討論
 
@@ -156,7 +156,7 @@
 
 #### 替代文字範例
 
-> 駐美代表蕭美琴（左二）、美國在台協會執行理事 Ingrid Larson（右三）、行政院政務委員鄧振中（左一）、美國副貿易代表 Sarah Bianchi（右二）四人手持簽署完成的「台美 21 世紀貿易倡議」，及美國在台協會理事主席 Laura Rosenberger（右一）合照，背景文字寫著：<br><br>Signing of the first agreement under the Taiwan-US Initiative on 21st-Century Trade<br><br>照片底下文字：<br><br>The most comprehensive trade agreement between Taiwan and the US since 1979<br>and a mark of our progress toward singing trade agreements with major trading countries<br><br>署名 @iingwen
+> 駐美代表蕭美琴（左二）、美國在台協會執行理事 Ingrid Larson（右三）、行政院政務委員鄧振中（左一）、美國副貿易代表 Sarah Bianchi（右二）四人手持簽署完成的「台美 21 世紀貿易倡議」，及美國在台協會理事主席 Laura Rosenberger（右一）合照，背景文字寫著：<br><br>Signing of the first agreement under the Taiwan-US Initiative on 21st-Century Trade<br><br>照片底下文字：<br><br>The most comprehensive trade agreement between Taiwan and the US since 1979<br>and a mark of our progress toward singing trade agreements with major trading countries<br><br>署名推特帳號 @iingwen
 
 #### 解析討論
 
@@ -175,7 +175,7 @@
 
 #### 替代文字範例
 
-> 
+> 蔡英文總統站在歐洲日晚宴講桌旁獨照，照片右側文字引述：<br><br>2022 trade between Taiwan and Europe: $92 billion<br><br>The EU now is Taiwan's largest source of foreign investment<br><br>署名推特帳號 @iingwen
 
 #### 解析討論
 
@@ -194,7 +194,7 @@
 
 #### 替代文字範例
 
-> 
+> 三張台灣醫療志願服務團的參與情況照片拼貼，分別標示著 Surgery（上圖）、Clinical service（左下圖）、Health education（右下圖）。拼貼中央以烏克蘭國旗配色的藍、黃筆觸為底色，文字寫著：<br><br>Thank you, Mackay Memorial Hospital medical team for helping the Ukrainian people in their time of need<br><br>署名推特帳號 @iingwen
 
 #### 解析討論
 
