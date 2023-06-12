@@ -213,7 +213,7 @@
 
 #### 替代文字範例
 
-> 
+> 蔡英文總統在 2023 年哥本哈根民主高峰會上的雙手十指交握半身獨照，親筆簽名 Ing-Wen Tsai，照片左側引述發言內容，強調：<br><br>... the Taiwanese commitment to democracy has never been stronger. ... By standing and working together, we can only make each other stronger.<br><br>完整引述文字：<br><br>Our democracies were all built on the sacrifices of those who fought against authoritarianism. All of us walked a long path to realize the liberty and freedom we enjoy today. And we understand how precious and sometimes fragile democracy can be. We also know how important it is for all of us to stand together.<br><br>I want te reiterate that through it all, the Taiwanese commitment to democracy has never been stronger. The pople of Taiwan know that democracy is the only lasting path and the only game in town. By standing and working together, we can only make each other stronger.<br><br>署名推特帳號 @iingwen
 
 #### 解析討論
 
