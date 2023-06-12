@@ -137,7 +137,7 @@
 
 #### 替代文字範例
 
-> 2023 年三月份，群眾聚集在貴州的地鐵站的照片，底下引述蔡英文總統（推特帳號 @iingwen）對此發表的意見：<br><br>Here in Taiwan we enjoy democracy, freedom, and many avenues to express ourselves politically and creatively. this nourishes Taiwan's culture and allows young people to grow and develop as individuals.<br>I look forward to the day that the outh in China will be able to sing and press themselves freely, with passion, not fear.<br><br>（天安門事件 34 週年紀念）
+> 2023 年三月份，群眾聚集在貴州的地鐵站的照片，底下引述蔡英文總統（署名推特帳號 @iingwen）表示：<br><br>Here in Taiwan we enjoy democracy, freedom, and many avenues to express ourselves politically and creatively. this nourishes Taiwan's culture and allows young people to grow and develop as individuals.<br>I look forward to the day that the outh in China will be able to sing and press themselves freely, with passion, not fear.<br><br>（天安門事件 34 週年紀念）
 
 #### 解析討論
 
@@ -194,7 +194,7 @@
 
 #### 替代文字範例
 
-> 三張台灣醫療志願服務團的參與情況照片拼貼，分別標示著 Surgery（上圖）、Clinical service（左下圖）、Health education（右下圖）。拼貼中央以烏克蘭國旗配色的藍、黃筆觸為底色，文字寫著：<br><br>Thank you, Mackay Memorial Hospital medical team for helping the Ukrainian people in their time of need<br><br>署名推特帳號 @iingwen
+> 三張台灣醫療志願服務團的參與情況照片拼貼，分別標示 Surgery（上圖）、Clinical service（左下圖）、Health education（右下圖）。拼貼中央以烏克蘭國旗配色的藍、黃筆觸為底色，文字寫著：<br><br>Thank you, Mackay Memorial Hospital medical team for helping the Ukrainian people in their time of need<br><br>署名推特帳號 @iingwen
 
 #### 解析討論
 
