@@ -366,6 +366,25 @@
 
 </details>
 
+<details>
+
+<summary>範例 4-8
+
+![](https://pbs.twimg.com/media/FyZ0oAPaYAEpewH?format=jpg&name=thumb)
+
+</summary>
+
+![](https://pbs.twimg.com/media/FyZ0oAPaYAEpewH?format=jpg&name=small)
+([來源](https://twitter.com/iingwen/status/1668149201174429697))
+
+#### 替代文字範例
+
+> 
+
+#### 解析討論
+
+</details>
+
 ### 5. 資訊圖表及表格
 
 <details>
