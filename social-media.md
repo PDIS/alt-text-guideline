@@ -170,7 +170,7 @@
 
 </summary>
 
-![](https://pbs.twimg.com/media/Fw-94a6aUAESuUu?format=jpg&name=small)
+![蔡英文總統站在歐洲日晚宴講桌旁獨照及引述文字](https://pbs.twimg.com/media/Fw-94a6aUAESuUu?format=jpg&name=small)
 ([來源](https://twitter.com/iingwen/status/1661760190344216577))
 
 #### 替代文字範例
@@ -189,7 +189,7 @@
 
 </summary>
 
-![](https://pbs.twimg.com/media/Fw9ivP5akAEeJKq?format=jpg&name=small)
+![台灣醫療志願服務團照片拼貼](https://pbs.twimg.com/media/Fw9ivP5akAEeJKq?format=jpg&name=small)
 ([來源](https://twitter.com/iingwen/status/1661657040828379139))
 
 #### 替代文字範例
@@ -208,7 +208,7 @@
 
 </summary>
 
-![](https://pbs.twimg.com/media/FwPTbFSaEAEpRAq?format=jpg&name=small)
+![蔡英文總統在 2023 年哥本哈根民主高峰會獨照及發言內容引述](https://pbs.twimg.com/media/FwPTbFSaEAEpRAq?format=jpg&name=small)
 ([來源](https://twitter.com/iingwen/status/1658401568369299457))
 
 #### 替代文字範例
@@ -229,7 +229,7 @@
 
 </summary>
 
-![](https://pbs.twimg.com/media/Fwoe13kaUAA3yEJ?format=jpg&name=small)
+![外交部長呉釗燮帶領搜救隊](https://pbs.twimg.com/media/Fwoe13kaUAA3yEJ?format=jpg&name=small)
 ([來源](https://twitter.com/tekmankara/status/1660185793472913410))
 
 #### 替代文字範例
@@ -248,7 +248,7 @@
 
 </summary>
 
-![](https://pbs.twimg.com/media/FwzSbt_aMAADypZ?format=jpg&name=small)
+![史瓦帝尼衛生部長 Lizzy Nkosi 在第 76 屆世界衛生大會發言畫面](https://pbs.twimg.com/media/FwzSbt_aMAADypZ?format=jpg&name=small)
 ([來源](https://twitter.com/TW_Eswatini/status/1660944115704680448))
 
 #### 替代文字範例
@@ -269,9 +269,9 @@
 
 </summary>
 
-![](https://pbs.twimg.com/media/Fxiztu6akAAK3CS?format=jpg&name=small)
-![](https://pbs.twimg.com/media/Fxi3LfiaYAQ-qo0?format=jpg&name=small)
-![](https://pbs.twimg.com/media/Fxi3WNaakAIX9p1?format=jpg&name=small)
+![數位發展部部長唐鳳（中）、國家資通安全研究院院長何全德（左）、立陶宛駐台貿易代表處代表 Paulius Lukauskas（右）坐在數位發展部會議室內一起鼓掌。](https://pbs.twimg.com/media/Fxiztu6akAAK3CS?format=jpg&name=small)
+![現場與會者及線上與會者一起參與會議的全貌](https://pbs.twimg.com/media/Fxi3LfiaYAQ-qo0?format=jpg&name=small)
+![會議線上與會者畫面翻拍](https://pbs.twimg.com/media/Fxi3WNaakAIX9p1?format=jpg&name=small)
 ([來源](https://twitter.com/TAIWANmoda/status/1664282392981536772))
 
 #### 替代文字範例
@@ -294,12 +294,12 @@
 
 </summary>
 
-![](https://pbs.twimg.com/media/Fxxk6DyakAAdvba?format=jpg&name=small)
+![數位發展部部長唐鳳（右）及吐瓦魯國司法、通訊暨外交部長 Simon Robert Kofe（左）](https://pbs.twimg.com/media/Fxxk6DyakAAdvba?format=jpg&name=small)
 ([來源](https://twitter.com/TAIWANmoda/status/1665329233772810242))
 
 #### 替代文字範例
 
-> 數位發展部部長唐鳳手持吐瓦魯傳統手風扇，與吐瓦魯國司法、通訊暨外交部長 Simon Robert Kofe 在會議室內站立合照。
+> 數位發展部部長唐鳳（右）手持吐瓦魯傳統手風扇，與吐瓦魯國司法、通訊暨外交部長 Simon Robert Kofe（左）在會議室內站立合照。
 
 #### 解析討論
 
