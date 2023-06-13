@@ -269,18 +269,18 @@
 
 </summary>
 
-![數位發展部部長唐鳳（中）、國家資通安全研究院院長何全德（左）、立陶宛駐台貿易代表處代表 Paulius Lukauskas（右）坐在數位發展部會議室內一起鼓掌。](https://pbs.twimg.com/media/Fxiztu6akAAK3CS?format=jpg&name=small)
+![數位發展部長唐鳳（中）、國家資通安全研究院院長何全德（左）、立陶宛駐台貿易代表處代表 Paulius Lukauskas（右）坐在數位發展部會議室內一起鼓掌。](https://pbs.twimg.com/media/Fxiztu6akAAK3CS?format=jpg&name=small)
 ![現場與會者及線上與會者一起參與會議的全貌](https://pbs.twimg.com/media/Fxi3LfiaYAQ-qo0?format=jpg&name=small)
 ![會議線上與會者畫面翻拍](https://pbs.twimg.com/media/Fxi3WNaakAIX9p1?format=jpg&name=small)
 ([來源](https://twitter.com/TAIWANmoda/status/1664282392981536772))
 
 #### 替代文字範例
 
-> 數位發展部部長唐鳳（中）、國家資通安全研究院院長何全德（左）、立陶宛駐台貿易代表處代表 Paulius Lukauskas（右）坐在數位發展部會議室內一起鼓掌。
+> 數位發展部長唐鳳（中）、國家資通安全研究院院長何全德（左）、立陶宛駐台貿易代表處代表 Paulius Lukauskas（右）坐在數位發展部會議室內一起鼓掌。
 
-> 會議全貌，現場與會者包括數位發展部部長及人員、國家資通安全研究院院長及人員、立陶宛駐台貿易代表處代表，牆上大型螢幕顯示遠端線上與會人員。
+> 會議全貌，現場與會者包括數位發展部長及人員、國家資通安全研究院院長及人員、立陶宛駐台貿易代表處代表，牆上大型螢幕顯示遠端線上與會人員。
 
-> 會議線上與會者畫面翻拍，包括數位發展部部長、國家資通安全研究院院長、立陶宛駐台貿易代表處代表等人（左上）、立陶宛經濟及創新部及創新署人員（右上）、立陶宛「教師領導科技」人員代表（下）。
+> 會議線上與會者畫面翻拍，包括數位發展部長、國家資通安全研究院院長、立陶宛駐台貿易代表處代表等人（左上）、立陶宛經濟及創新部及創新署人員（右上）、立陶宛「教師領導科技」人員代表（下）。
 
 #### 解析討論
 
@@ -294,12 +294,12 @@
 
 </summary>
 
-![數位發展部部長唐鳳（右）及吐瓦魯國司法、通訊暨外交部長 Simon Robert Kofe](https://pbs.twimg.com/media/Fxxk6DyakAAdvba?format=jpg&name=small)
+![數位發展部長唐鳳（右）及吐瓦魯國司法、通訊暨外交部長 Simon Robert Kofe](https://pbs.twimg.com/media/Fxxk6DyakAAdvba?format=jpg&name=small)
 ([來源](https://twitter.com/TAIWANmoda/status/1665329233772810242))
 
 #### 替代文字範例
 
-> 數位發展部部長唐鳳（右）手持吐瓦魯傳統手風扇，與吐瓦魯國司法、通訊暨外交部長 Simon Robert Kofe 在會議室內站立合照。
+> 數位發展部長唐鳳（右）手持吐瓦魯傳統手風扇，與吐瓦魯國司法、通訊暨外交部長 Simon Robert Kofe 在會議室內站立合照。
 
 #### 解析討論
 
@@ -313,12 +313,12 @@
 
 </summary>
 
-![](https://pbs.twimg.com/media/FyG5kBDaIAMltQM?format=jpg&name=small)
+![數位發展部長唐鳳（中）、帛琉財政部長 Kaleb Udui Jr.（右三）及多位帛琉政府官員代表合照](https://pbs.twimg.com/media/FyG5kBDaIAMltQM?format=jpg&name=small)
 ([來源](https://twitter.com/TAIWANmoda/status/1666818298649133056))
 
 #### 替代文字範例
 
-> 
+> 數位發展部長唐鳳（中）、帛琉財政部長 Kaleb Udui Jr.（右三）及另外五位帛琉政府官員代表，共同站在數位發展部辦公室櫃檯前合照。
 
 #### 解析討論
 
@@ -334,14 +334,18 @@
 
 </summary>
 
-![](https://pbs.twimg.com/media/FxXY6CIWYAARCvb?format=jpg&name=small)
-![](https://pbs.twimg.com/media/FxXY6CKXgAIBCpf?format=jpg&name=small)
-![](https://pbs.twimg.com/media/FxXY9JyWcAI4gKV?format=jpg&name=small)
+![衛生福利部長薛瑞元（左）向蔡英文總統（右）展示一幅約一公尺見方的照片拼貼](https://pbs.twimg.com/media/FxXY6CIWYAARCvb?format=jpg&name=small)
+![蔡英文總統、衛生福利部長薛瑞元與世衛行動團成員在活動照片拼貼前合照](https://pbs.twimg.com/media/FxXY6CKXgAIBCpf?format=jpg&name=small)
+![蔡英文總統（右）、衛生福利部長薛瑞元（左）分別站在世衛行動團照片拼貼兩側合照](https://pbs.twimg.com/media/FxXY9JyWcAI4gKV?format=jpg&name=small)
 ([來源](https://twitter.com/Taiwan_in_UK/status/1663475263605227522))
 
 #### 替代文字範例
 
-> 
+> 衛生福利部長薛瑞元（左）向蔡英文總統（右）展示一幅約一公尺見方的照片拼貼，由世衛行動團在日內瓦的活動照片組成，拼貼中央部分是 WHA76 及 Health for All, Taiwan can help 文字與圖示。
+
+> 蔡英文總統、衛生福利部長薛瑞元與世衛行動團成員在活動照片拼貼前合照。
+
+> 蔡英文總統（右）、衛生福利部長薛瑞元（左）分別站在世衛行動團照片拼貼兩側合照。
 
 #### 解析討論
 
