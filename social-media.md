@@ -329,6 +329,10 @@
 
 #### 解析討論
 
+唐部長手上拿著吐瓦魯傳統手風扇在這張合照中具有重要意義，因此除了描述兩人，也要提到這個手風扇。
+
+由於照片中總共只有兩人，因此第一人標示位置後，第二人不必再標示。
+
 ---
 
 </details>
@@ -341,18 +345,16 @@
 
 </summary>
 
-![數位發展部長唐鳳（中）、帛琉財政部長 Kaleb Udui Jr.（右三）及多位帛琉政府官員代表合照](https://pbs.twimg.com/media/FyG5kBDaIAMltQM?format=jpg&name=small)
+![數位發展部長唐鳳（中）、帛琉財政部長 Kaleb Udui Jr.（右三）及來自太平洋國家的政府代表團合照](https://pbs.twimg.com/media/FyG5kBDaIAMltQM?format=jpg&name=small)
 ([來源](https://twitter.com/TAIWANmoda/status/1666818298649133056))
 
 #### 替代文字範例
 
-> 數位發展部長唐鳳（中）、帛琉財政部長 Kaleb Udui Jr.（右三）及另外五位帛琉政府官員代表，共同站在數位發展部辦公室櫃檯前合照。
+> 數位發展部長唐鳳（中）、帛琉財政部長 Kaleb Udui Jr.（右三）及來自太平洋國家的政府代表團，共同站在數位發展部辦公室櫃檯前合照。
 
 #### 解析討論
 
-照片中，另外五位帛琉政府官員代表分別是誰、什麼職稱的資訊可能在發表時無法掌握或確認，所以用概括式的說法；範例的寫法能夠讓閱聽對象理解照片中總共七人，這項資訊倒不見得重要，如果擔心出席的官員代表人數不只這些，也可以再粗略點地寫成：
-
-> 數位發展部長唐鳳（中）、帛琉財政部長 Kaleb Udui Jr.（右三）及多位帛琉政府官員代表，共同站在數位發展部辦公室櫃檯前合照。
+照片中，另外幾位來自太平洋國家的政府代表團成員代表分別是誰、什麼職稱的資訊可能在發表時無法掌握或確認，所以用概括式的說法。
 
 照片背景具備足夠的識別性，能夠辨認出是在數位發展部辦公室櫃檯，因此也可寫入替代文字，增添照片的情境脈絡資訊。
 
@@ -370,18 +372,18 @@
 
 </summary>
 
-![衛生福利部長薛瑞元（左）向蔡英文總統（右）展示一幅約一公尺見方的照片拼貼](https://pbs.twimg.com/media/FxXY6CIWYAARCvb?format=jpg&name=small)
+![衛生福利部長薛瑞元（左）向蔡英文總統展示一幅約一公尺見方的照片拼貼](https://pbs.twimg.com/media/FxXY6CIWYAARCvb?format=jpg&name=small)
 ![蔡英文總統、衛生福利部長薛瑞元與世衛行動團成員在活動照片拼貼前合照](https://pbs.twimg.com/media/FxXY6CKXgAIBCpf?format=jpg&name=small)
-![蔡英文總統（右）、衛生福利部長薛瑞元（左）分別站在世衛行動團照片拼貼兩側合照](https://pbs.twimg.com/media/FxXY9JyWcAI4gKV?format=jpg&name=small)
+![蔡英文總統（右）、衛生福利部長薛瑞元分別站在世衛行動團照片拼貼兩側合照](https://pbs.twimg.com/media/FxXY9JyWcAI4gKV?format=jpg&name=small)
 ([來源](https://twitter.com/Taiwan_in_UK/status/1663475263605227522))
 
 #### 替代文字範例
 
-> 衛生福利部長薛瑞元（左）向蔡英文總統（右）展示一幅約一公尺見方的照片拼貼，由世衛行動團在日內瓦的活動照片組成，拼貼中央部分是 WHA76 及 Health for All, Taiwan can help 文字與圖示。
+> 衛生福利部長薛瑞元（左）向蔡英文總統展示一幅約一公尺見方的照片拼貼，由世衛行動團在日內瓦的活動照片組成，拼貼中央部分是 WHA76 及 Health for All, Taiwan can help 文字與圖示。
 
 > 蔡英文總統、衛生福利部長薛瑞元與世衛行動團成員在活動照片拼貼前合照。
 
-> 蔡英文總統（右）、衛生福利部長薛瑞元（左）分別站在世衛行動團照片拼貼兩側合照。
+> 蔡英文總統（右）、衛生福利部長薛瑞元分別站在世衛行動團照片拼貼兩側合照。
 
 #### 解析討論
 
