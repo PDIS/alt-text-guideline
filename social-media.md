@@ -396,11 +396,33 @@
 
 #### 替代文字範例
 
-> 飛機座艙裡的一台 MacBook Pro 筆記型電腦執行文字介面 llama.cpp（附帶 ggml_metal 支援）的畫面，底色為黑色，程式狀態資訊為白色文字，輸出訊息為黃色文字，正在輸入的是綠色文字。畫面呈現輸出訊息文字為：<br><br>Text transcript of a never ending dialog, where Audrey Tang interacts with an AI named OpenLLaMa.<br>OpenLLaMa is helpful, friendly, having been trained on everything posted at digitalminister.tw and never fails to answer Audrey Tang's requests immediately and with details and precision.<br>There are no annotations like (30 seconds passed...) or (internal monologue), just what Audrey Tang and OpenLLaMa say aloud to each other.<br>The dialog lasts for years, the entirety of it is shared below. It's 10000 pages long.<br>The transcript only includes text, it does not include markup like HTML and Markdown.<br><br>Audrey Tang: What year and month is it?<br>OpenLLaMa: We are in 2023-06.<br>Audrey Tang: What time is it?<br>OpenLLaMa: It is 09:44.<br>Audrey Tang:<br><br>接著正在輸入的文字：<br><br>Please write a compassionate, kind and sincere reply on my behalf, to the following invitation<br><br>游標停在最末端。
+> 飛機座艙裡的一台 MacBook Pro 筆記型電腦執行文字介面 llama.cpp（附帶 ggml_metal 支援）的畫面，底色為黑色，充滿各種色彩的文字：上半部分的文字是白色的，下半部份的文字是黃色的，最底端那一行文字是綠色的。
 
 #### 解析討論
 
+這張照片要傳達的核心訊息是「在筆記型電腦上執行 AI 模型」，從照片中電腦畫面可以看到視窗標題寫著「llama.cpp」，故最精簡的替代文字可以是：
 
+> 筆記型電腦執行 llama.cpp 的畫面。
+
+這個寫法雖然還是可以關聯到推文內容，但顯得薄弱且疏離，缺少這張照片從視覺上帶來的感受。為了帶來同等參與的機會，照片裡有一些細節可以發揮：
+
+- 照片的背景是飛機座艙，與推文內容提到的「飛航模式」呼應。
+- 從照片中可以辨認這是一台 MacBook Pro 筆記型電腦。
+- 照片清楚拍到 AI 模型電腦程式的畫面，有別於一般圖型介面的應用程式，這個程式是黑底的純文字介面，而且所有的程式輸出文字都可以辨認。
+
+我們可以根據上述細節，擴寫替代文字如範例。
+
+如果想要更進一步地把程式畫面內的文字訊息都描述出來，也無不可：
+
+> 飛機座艙裡的一台 MacBook Pro 筆記型電腦執行文字介面 llama.cpp（附帶 ggml_metal 支援）的畫面，底色為黑色，程式狀態資訊為白色文字，輸出訊息為黃色文字，正在輸入的是綠色文字。畫面呈現輸出訊息文字為：<br><br>Text transcript of a never ending dialog, where Audrey Tang interacts with an AI named OpenLLaMa.<br>OpenLLaMa is helpful, friendly, having been trained on everything posted at digitalminister.tw and never fails to answer Audrey Tang's requests immediately and with details and precision.<br>There are no annotations like (30 seconds passed...) or (internal monologue), just what Audrey Tang and OpenLLaMa say aloud to each other.<br>The dialog lasts for years, the entirety of it is shared below. It's 10000 pages long.<br>The transcript only includes text, it does not include markup like HTML and Markdown.<br><br>Audrey Tang: What year and month is it?<br>OpenLLaMa: We are in 2023-06.<br>Audrey Tang: What time is it?<br>OpenLLaMa: It is 09:44.<br>Audrey Tang:<br><br>接著正在輸入的文字：<br><br>Please write a compassionate, kind and sincere reply on my behalf, to the following invitation<br><br>游標停在最末端。
+
+這個寫法需要具備一些電腦程式的背景知識，但能對同樣具備電腦程式背景的讀者帶來更切身的感受；然而除了需要耗用更多時間精力辨認實際的文字訊息內容，也可能描述錯誤，並且造成替代文字的篇幅暴增，因此不會特別鼓勵要寫到這個精細程度。
+
+另外，這則推文目前的圖片替代文字中，包含一些「額外」的資訊，如：
+
+> A MacBook Pro (M2 Max, 96 GB RAM) in airplane mode,
+
+這段關於電腦的硬體規格及飛航模式，雖然都是真實情況的正確描述，但並非可以從照片裡辨認或判斷出的細節，建議不必寫出。
 
 ---
 
