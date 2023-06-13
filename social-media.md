@@ -359,12 +359,12 @@
 
 </summary>
 
-![A MacBook Pro in airplane mode, running llama.cpp with ggml_metal support.](https://pbs.twimg.com/media/FyToHvxakAEPm3h?format=jpg&name=small)
+![MacBook Pro 筆記型電腦執行 llama.cpp 附帶 ggml_metal 支援的畫面](https://pbs.twimg.com/media/FyToHvxakAEPm3h?format=jpg&name=small)
 ([來源](https://twitter.com/audreyt/status/1667716953736347648))
 
 #### 替代文字範例
 
-> A MacBook Pro (M2 Max, 96 GB RAM) in airplane mode, running llama.cpp with ggml_metal support. The screen reads:<br><br>Text transcript of a never ending dialog, where Audrey Tang interacts with an AI named OpenLLaMa.<br>OpenLLaMa is helpful, friendly, having been trained on everything posted at digitalminister.tw and never fails to answer Audrey Tang's requests immediately and with details and precision.<br>There are no annotations like (30 seconds passed...) or (internal monologue), just what Audrey Tang and OpenLLaMa say aloud to each other.<br>The dialog lasts for years, the entirety of it is shared below. It's 10000 pages long.<br>The transcript only includes text, it does not include markup like HTML and Markdown.<br><br>Audrey Tang: What year and month is it?<br>OpenLLaMa: We are in 2023-06.<br>Audrey Tang: What time is it?<br>OpenLLaMa: It is 09:44.<br>Audrey Tang: Please write a compassionate, kind and sincere reply on my behalf, to the following invitation
+> 飛機座艙裡的一台 MacBook Pro 筆記型電腦執行 llama.cpp 附帶 ggml_metal 支援的畫面，底色為黑色，程式狀態訊息文字為白色，輸出訊息文字為黃色，正在輸入的文字為綠色。畫面呈現輸出訊息文字為：<br><br>Text transcript of a never ending dialog, where Audrey Tang interacts with an AI named OpenLLaMa.<br>OpenLLaMa is helpful, friendly, having been trained on everything posted at digitalminister.tw and never fails to answer Audrey Tang's requests immediately and with details and precision.<br>There are no annotations like (30 seconds passed...) or (internal monologue), just what Audrey Tang and OpenLLaMa say aloud to each other.<br>The dialog lasts for years, the entirety of it is shared below. It's 10000 pages long.<br>The transcript only includes text, it does not include markup like HTML and Markdown.<br><br>Audrey Tang: What year and month is it?<br>OpenLLaMa: We are in 2023-06.<br>Audrey Tang: What time is it?<br>OpenLLaMa: It is 09:44.<br>Audrey Tang:<br><br>最後接著正在輸入的文字：<br><br>Please write a compassionate, kind and sincere reply on my behalf, to the following invitation
 
 #### 解析討論
 
