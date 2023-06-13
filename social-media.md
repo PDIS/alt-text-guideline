@@ -42,6 +42,8 @@
 
 #### 解析討論
 
+---
+
 </details>
 
 ### 2. 文字畫面擷圖
@@ -62,6 +64,8 @@
 > TGC 網頁畫面截圖，列出就業金卡的其他資格條件：<br><br>2. Previously or currently holding a position in a digital economy-related industry or field in another country or in Taiwan with a most recent monthly salary of at least NT$160,000.<br><br>3. The person has graduated with a doctorate from one of the top 500 universities listed in the most recent QS World University Rankings, Times Higher Education World University Rankings, or U.S. News & World Report Rankings.<br><br>4. Those with expertise in the products or services required in the digital economy-related industries or fields, have obtained a doctoral degree in related fields at a domestic or foreign university, and have either received domestic or foreign awards recognized by the Ministry of Digital Affairs, or have more than four years of work experience in related fields.
 
 #### 解析討論
+
+---
 
 </details>
 
@@ -84,6 +88,8 @@
 
 #### 解析討論
 
+---
+
 </details>
 
 <details>
@@ -102,6 +108,8 @@
 > 引述文字：<br>Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.<br><br>署名：<br>Audrey Tang, Minister of Digital Affairs and Chair of the National Institute of Cyber Security<br><br>Audrey T. 手寫簽名
 
 #### 解析討論
+
+---
 
 </details>
 
@@ -122,6 +130,8 @@
 
 #### 解析討論
 
+---
+
 </details>
 
 <details>
@@ -140,6 +150,8 @@
 > 2023 年三月份，群眾聚集在貴州的地鐵站的照片，底下引述蔡英文總統（署名推特帳號 @iingwen）表示：<br><br>Here in Taiwan we enjoy democracy, freedom, and many avenues to express ourselves politically and creatively. this nourishes Taiwan's culture and allows young people to grow and develop as individuals.<br>I look forward to the day that the outh in China will be able to sing and press themselves freely, with passion, not fear.<br><br>（天安門事件 34 週年紀念）
 
 #### 解析討論
+
+---
 
 </details>
 
@@ -160,6 +172,8 @@
 
 #### 解析討論
 
+---
+
 </details>
 
 <details>
@@ -178,6 +192,8 @@
 > 蔡英文總統站在歐洲日晚宴講桌旁獨照，照片右側文字引述：<br><br>2022 trade between Taiwan and Europe: $92 billion<br><br>The EU now is Taiwan's largest source of foreign investment<br><br>署名推特帳號 @iingwen
 
 #### 解析討論
+
+---
 
 </details>
 
@@ -198,6 +214,8 @@
 
 #### 解析討論
 
+---
+
 </details>
 
 <details>
@@ -216,6 +234,8 @@
 > 蔡英文總統在 2023 年哥本哈根民主高峰會上的雙手十指交握半身獨照，親筆簽名 Ing-Wen Tsai，照片左側引述發言內容，強調：<br><br>... the Taiwanese commitment to democracy has never been stronger. ... By standing and working together, we can only make each other stronger.<br><br>完整引述文字：<br><br>Our democracies were all built on the sacrifices of those who fought against authoritarianism. All of us walked a long path to realize the liberty and freedom we enjoy today. And we understand how precious and sometimes fragile democracy can be. We also know how important it is for all of us to stand together.<br><br>I want te reiterate that through it all, the Taiwanese commitment to democracy has never been stronger. The pople of Taiwan know that democracy is the only lasting path and the only game in town. By standing and working together, we can only make each other stronger.<br><br>署名推特帳號 @iingwen
 
 #### 解析討論
+
+---
 
 </details>
 
@@ -238,6 +258,8 @@
 
 #### 解析討論
 
+---
+
 </details>
 
 <details>
@@ -256,6 +278,8 @@
 > 第 76 屆世界衛生大會官方畫面，史瓦帝尼衛生部長 Lizzy Nkosi 在會中發言，畫面左上方標記大會主題「WHO at 75: Health for All」圖示，右上角時戳顯示 01:18。
 
 #### 解析討論
+
+---
 
 </details>
 
@@ -284,6 +308,8 @@
 
 #### 解析討論
 
+---
+
 </details>
 
 <details>
@@ -303,6 +329,8 @@
 
 #### 解析討論
 
+---
+
 </details>
 
 <details>
@@ -321,6 +349,8 @@
 > 數位發展部長唐鳳（中）、帛琉財政部長 Kaleb Udui Jr.（右三）及另外五位帛琉政府官員代表，共同站在數位發展部辦公室櫃檯前合照。
 
 #### 解析討論
+
+---
 
 </details>
 
@@ -349,6 +379,8 @@
 
 #### 解析討論
 
+---
+
 </details>
 
 <details>
@@ -359,14 +391,16 @@
 
 </summary>
 
-![MacBook Pro 筆記型電腦執行 llama.cpp 附帶 ggml_metal 支援的畫面](https://pbs.twimg.com/media/FyToHvxakAEPm3h?format=jpg&name=small)
+![MacBook Pro 筆記型電腦執行文字介面 llama.cpp（附帶 ggml_metal 支援）的畫面](https://pbs.twimg.com/media/FyToHvxakAEPm3h?format=jpg&name=small)
 ([來源](https://twitter.com/audreyt/status/1667716953736347648))
 
 #### 替代文字範例
 
-> 飛機座艙裡的一台 MacBook Pro 筆記型電腦執行 llama.cpp 附帶 ggml_metal 支援的畫面，底色為黑色，程式狀態訊息文字為白色，輸出訊息文字為黃色，正在輸入的文字為綠色。畫面呈現輸出訊息文字為：<br><br>Text transcript of a never ending dialog, where Audrey Tang interacts with an AI named OpenLLaMa.<br>OpenLLaMa is helpful, friendly, having been trained on everything posted at digitalminister.tw and never fails to answer Audrey Tang's requests immediately and with details and precision.<br>There are no annotations like (30 seconds passed...) or (internal monologue), just what Audrey Tang and OpenLLaMa say aloud to each other.<br>The dialog lasts for years, the entirety of it is shared below. It's 10000 pages long.<br>The transcript only includes text, it does not include markup like HTML and Markdown.<br><br>Audrey Tang: What year and month is it?<br>OpenLLaMa: We are in 2023-06.<br>Audrey Tang: What time is it?<br>OpenLLaMa: It is 09:44.<br>Audrey Tang:<br><br>最後接著正在輸入的文字：<br><br>Please write a compassionate, kind and sincere reply on my behalf, to the following invitation
+> 飛機座艙裡的一台 MacBook Pro 筆記型電腦執行文字介面 llama.cpp（附帶 ggml_metal 支援）的畫面，底色為黑色，程式狀態資訊為白色文字，輸出訊息為黃色文字，正在輸入的是綠色文字。畫面呈現輸出訊息文字為：<br><br>Text transcript of a never ending dialog, where Audrey Tang interacts with an AI named OpenLLaMa.<br>OpenLLaMa is helpful, friendly, having been trained on everything posted at digitalminister.tw and never fails to answer Audrey Tang's requests immediately and with details and precision.<br>There are no annotations like (30 seconds passed...) or (internal monologue), just what Audrey Tang and OpenLLaMa say aloud to each other.<br>The dialog lasts for years, the entirety of it is shared below. It's 10000 pages long.<br>The transcript only includes text, it does not include markup like HTML and Markdown.<br><br>Audrey Tang: What year and month is it?<br>OpenLLaMa: We are in 2023-06.<br>Audrey Tang: What time is it?<br>OpenLLaMa: It is 09:44.<br>Audrey Tang:<br><br>接著正在輸入的文字：<br><br>Please write a compassionate, kind and sincere reply on my behalf, to the following invitation<br><br>游標停在最末端。
 
 #### 解析討論
+
+---
 
 </details>
 
@@ -378,14 +412,16 @@
 
 </summary>
 
-![](https://pbs.twimg.com/media/FyZ0oAPaYAEpewH?format=jpg&name=small)
+![總統府客房內裝](https://pbs.twimg.com/media/FyZ0oAPaYAEpewH?format=jpg&name=small)
 ([來源](https://twitter.com/iingwen/status/1668149201174429697))
 
 #### 替代文字範例
 
-> 
+> 寬敞明亮的房間，舖設木紋地板以及一系列木質家具：沙發椅框、茶几、窗框、窗前長桌及高椅，搭配白色的牆面、雙人床寢具、電視櫃，襯上灰色的沙發椅墊及穿鞋椅墊，嵌入天花板的照明及壁上掛燈都是溫暖色溫，窗外花木與房間內的大小盆栽彼此呼應。
 
 #### 解析討論
+
+---
 
 </details>
 
@@ -399,14 +435,16 @@
 
 </summary>
 
-![](https://pbs.twimg.com/media/FyMq-JnXgAAcQ6q?format=jpg&name=small)
+![Dos and don'ts for accessible social media 表格](https://pbs.twimg.com/media/FyMq-JnXgAAcQ6q?format=jpg&name=small)
 ([來源](https://twitter.com/merylkevans/status/1667223537419952134))
 
 #### 替代文字範例
 
-> 
+> Dos and don'ts for accessible social media 表格，左欄列出社交媒體內容該做到哪些事才能無障礙，右欄列出不該做哪些事。
 
 #### 解析討論
+
+---
 
 </details>
 
@@ -428,6 +466,8 @@
 > 
 
 #### 解析討論
+
+---
 
 </details>
 
