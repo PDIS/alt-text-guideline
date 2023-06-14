@@ -254,9 +254,17 @@
 
 #### 替代文字範例
 
-> 外交部長呉釗燮身穿「中央災害應變中心」背心，背對鏡頭，面向搜救隊，全員在機場大廳列隊稍習。
+> 外交部長呉釗燮身穿「中央災害應變中心」背心，背對鏡頭，面向搜救隊，全員佩戴口罩在機場大廳列隊稍習。
 
 #### 解析討論
+
+這張照片的替代文字挑戰是有個主要的人只有背影，因此要描述這個人是誰，以及為什麼這張照片是這個視角（因為搜救隊全員也很重要，而他們面對著鏡頭）。
+
+[這則推文](https://twitter.com/tekmankara/status/1660185793472913410)實際採用的替代文字也值得討論：
+
+> MOFA Minister Jaushieh Jospeh Wu addresses a #TaiwanCanHelp search and rescue team prior to its departure for Turkey.
+
+在替代文字裡使用井號標籤 (#hashtag) 不會被社群平台轉換成可互動的超連結，因此一般來說並不建議這麼做；這則推文裡的 **#TaiwanCanHelp** 實際上在一系列社群媒體曝光中擔任「形象品牌」，用於替代文字也屬合理，是特殊的案例。
 
 ---
 
@@ -278,6 +286,14 @@
 > 第 76 屆世界衛生大會官方畫面，史瓦帝尼衛生部長 Lizzy Nkosi 在會中發言，畫面左上方標記大會主題「WHO at 75: Health for All」圖示，右上角時戳顯示 01:18。
 
 #### 解析討論
+
+這張「照片」的特殊之處在於它是世界衛生大會的官方畫面，畫面左上方的圖示及右上角的時戳都是增加這個畫面可信度的視覺元素。
+
+[這則推文](https://twitter.com/TW_Eswatini/status/1660944115704680448)實際使用的替代文字包含額外內容：
+
+> ... voices the government and people of Eswatini's rock-solid support for Taiwan's meaningful participation in the activities, mechanisms and meetings of the World Health Organization ...
+
+這段描述無法在視覺上從這張照片看到，雖然符合事實，也替這張照片增添更多情境線索，但應該謹慎考慮是否要在替代文字裡加上這些內容。
 
 ---
 
@@ -316,7 +332,7 @@
 
 > ... in applauding the first Taiwan-Lithuania e-signed cooperation pact during a ceremony at moda HQ in Taipei.
 
-雖然符合事實，也替這張照片增添更多情境線索，但應該謹慎考慮是否需要在替代文字裡加上這些內容。
+雖然符合事實，也替這張照片增添更多情境線索，但應該謹慎考慮是否要在替代文字裡加上這些內容。
 
 第二張照片的替代文字直接點破這張照片的溝通意圖，讓閱聽者理解參與者同時包含實體出席及線上出席。[這則推文](https://twitter.com/TAIWANmoda/status/1664282392981536772)實際使用的替代文字遺漏牆上投影畫面也有線上參與者，稍嫌不足。
 
