@@ -71,9 +71,15 @@
 
 #### 替代文字範例
 
-> TGC 網頁畫面截圖，列出就業金卡的其他資格條件：<br><br>2. Previously or currently holding a position in a digital economy-related industry or field in another country or in Taiwan with a most recent monthly salary of at least NT$160,000.<br><br>3. The person has graduated with a doctorate from one of the top 500 universities listed in the most recent QS World University Rankings, Times Higher Education World University Rankings, or U.S. News & World Report Rankings.<br><br>4. Those with expertise in the products or services required in the digital economy-related industries or fields, have obtained a doctoral degree in related fields at a domestic or foreign university, and have either received domestic or foreign awards recognized by the Ministry of Digital Affairs, or have more than four years of work experience in related fields.<br><br>網頁列出的各項資格條件，皆可展開揭露詳細的辦理方式。
+> 台灣就業金卡 (TGC) 網頁畫面截圖，列出就業金卡的其他資格條件：<br><br>2. Previously or currently holding a position in a digital economy-related industry or field in another country or in Taiwan with a most recent monthly salary of at least NT$160,000.<br><br>3. The person has graduated with a doctorate from one of the top 500 universities listed in the most recent QS World University Rankings, Times Higher Education World University Rankings, or U.S. News & World Report Rankings.<br><br>4. Those with expertise in the products or services required in the digital economy-related industries or fields, have obtained a doctoral degree in related fields at a domestic or foreign university, and have either received domestic or foreign awards recognized by the Ministry of Digital Affairs, or have more than four years of work experience in related fields.<br><br>網頁列出的各項資格條件，皆可展開揭露詳細的辦理方式。
 
 #### 解析討論
+
+這張圖片是以「引用線上資訊」的方式，補充[推文內容](https://twitter.com/audreyt/status/1660092613066883073)做出答覆。除了在替代文字裡提供詳實文字，還有幾個重點：
+
+- 要寫出這是 TGC 網頁的畫面截圖。
+- 要描述各項資格條件在網頁上還有更詳細的資訊。雖然圖中第 2. 項已經處於展開的狀態，且可見到應備齊文件的資訊，但這個視覺線索只是提示「有更詳細的資訊，可以到網頁上查詢」，不必在替代文字中連這些都抄寫出來。
+- 網頁畫面截圖中，可以看到有些字詞因為排版因素加上連字號分成兩行 (uni-versity)，在替代文字裡可以合併回來，以利閱讀或報讀。
 
 ---
 
