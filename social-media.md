@@ -88,6 +88,8 @@
 
 #### 解析討論
 
+[這則推文](https://twitter.com/MOHW_Taiwan/status/1654702919336476673)完全沒有文字，這張圖卡就是所有的推文內容，因此需要將圖卡內的所有文字寫出；最後署名壓日期的段落，則要考慮輔助科技是否能正確辨認日期格式，較好的方式是如範例改寫成明確的日期格式。
+
 ---
 
 </details>
@@ -105,9 +107,15 @@
 
 #### 替代文字範例
 
-> 引述文字：<br>Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.<br><br>署名：<br>Audrey Tang, Minister of Digital Affairs and Chair of the National Institute of Cyber Security<br><br>Audrey T. 手寫簽名
+> 引述文字：<br>Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.<br><br>Audrey T. 手寫簽名於虛線欄位<br>Audrey Tang, Minister of Digital Affairs and Chair of the National Institute of Cyber Security
 
 #### 解析討論
+
+[這則推文](https://twitter.com/audreyt/status/1663522664613564416)文字提到：
+
+> ... in signing on the dotted line.✍️
+
+所以在替代文字裡，要強調「手寫簽名於虛線欄位」這項視覺元素，與推文內容呼應。
 
 ---
 
@@ -130,6 +138,10 @@
 
 #### 解析討論
 
+這張圖片不是單純把文字內容做成一張圖，而是把[推文內容](https://twitter.com/MOHW_Taiwan/status/1652524011400859648)重新表達成便於閱聽者轉發分享的「圖文卡片」。
+
+圖片內容已經完整寫在推文裡，這張圖片是否僅存裝飾功能？當然不是。這張圖片的視覺元素反而變得更重要，尤其是裡面使用的線條圖以及圖示。描述這些細節，幫助更多閱聽者能夠分享這張圖文卡片，也是「同等參與」的目的。
+
 ---
 
 </details>
@@ -151,6 +163,10 @@
 
 #### 解析討論
 
+這張圖片有兩個主要的視覺元素：照片跟引述文字，值得注意這兩者的日期不同（照片是三月的，引述文字是六月）。以視覺順序來說，照片先呈現；以內容尺寸來說，照片跟引述文字佔用的空間相當。
+
+整張圖的重點其實還是在引述文字，照片的部分只是個引子，所以替代文字裡先簡短描述照片，交代時間地點事件等背景，不必深入描述照片細節，接著把主要的替代文字篇幅放在完整的引述文字，並且把「署名推特帳號」往前挪。
+
 ---
 
 </details>
@@ -171,6 +187,8 @@
 > 駐美代表蕭美琴（左二）、美國在台協會執行理事 Ingrid Larson（右三）、行政院政務委員鄧振中（左一）、美國副貿易代表 Sarah Bianchi（右二）四人手持簽署完成的「台美 21 世紀貿易倡議」，及美國在台協會理事主席 Laura Rosenberger（右一）合照，背景文字寫著：<br><br>Signing of the first agreement under the Taiwan-US Initiative on 21st-Century Trade<br><br>照片底下文字：<br><br>The most comprehensive trade agreement between Taiwan and the US since 1979<br>and a mark of our progress toward singing trade agreements with major trading countries<br><br>署名推特帳號 @iingwen
 
 #### 解析討論
+
+
 
 ---
 
@@ -234,6 +252,8 @@
 > 蔡英文總統在 2023 年哥本哈根民主高峰會上的雙手十指交握半身獨照，親筆簽名 Ing-Wen Tsai，照片左側引述發言內容，強調：<br><br>... the Taiwanese commitment to democracy has never been stronger. ... By standing and working together, we can only make each other stronger.<br><br>完整引述文字：<br><br>Our democracies were all built on the sacrifices of those who fought against authoritarianism. All of us walked a long path to realize the liberty and freedom we enjoy today. And we understand how precious and sometimes fragile democracy can be. We also know how important it is for all of us to stand together.<br><br>I want te reiterate that through it all, the Taiwanese commitment to democracy has never been stronger. The pople of Taiwan know that democracy is the only lasting path and the only game in town. By standing and working together, we can only make each other stronger.<br><br>署名推特帳號 @iingwen
 
 #### 解析討論
+
+
 
 ---
 
