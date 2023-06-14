@@ -204,7 +204,7 @@
 
 #### 解析討論
 
-
+圖中照片除了入鏡者有哪些人，他們拿著簽署完成的貿易倡議文件也是視覺重點。替代文字的內容排列順序是依照視線順序，不是單純的由上而下，因此先描述照片內容，接著才寫背景文字，然後是底下的文字。
 
 ---
 
@@ -227,6 +227,8 @@
 
 #### 解析討論
 
+首先描述圖片中照片內容，包括照片裡是誰、在哪裡、什麼事件，接著才是右側的文字。
+
 ---
 
 </details>
@@ -247,6 +249,12 @@
 > 三張台灣醫療志願服務團的參與情況照片拼貼，分別標示 Surgery（上圖）、Clinical service（左下圖）、Health education（右下圖）。拼貼中央以烏克蘭國旗配色的藍、黃筆觸為底色，文字寫著：<br><br>Thank you, Mackay Memorial Hospital medical team for helping the Ukrainian people in their time of need<br><br>署名推特帳號 @iingwen
 
 #### 解析討論
+
+這個照片拼貼圖片的三張照片各有標題 (Surgery, Clinical service, Health education)，而本圖的重點在於支援烏克蘭，所以僅以標題描述三張參與情況照片後，主要描述中央視覺元素，包括烏克蘭國旗配色、筆觸底色、文字內容。
+
+也可以描述這三張參與情況照片內容，但需注意排列順序符合視覺，亦即還是從中央元素開始，再分別往上、往左下、往右下，例如：
+
+> 三張台灣醫療志願服務團的參與情況照片拼貼，分別標示 Surgery（上圖）、Clinical service（左下圖）、Health education（右下圖）。拼貼中央以烏克蘭國旗配色的藍、黃筆觸為底色，文字寫著：<br><br>Thank you, Mackay Memorial Hospital medical team for helping the Ukrainian people in their time of need<br><br>上圖 Surgery 是服務團在手術室裡參與手術進行的照片，左下圖 Clinical service 是兩位服務團成員在門診室照護一位仰躺患者的照片，右下圖 health education 是一位服務團成員指導烏克蘭夥伴操作腹腔超音波照影的照片。<br><br>署名推特帳號 @iingwen
 
 ---
 
