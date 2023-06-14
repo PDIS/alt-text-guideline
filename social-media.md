@@ -295,20 +295,32 @@
 
 ![數位發展部長唐鳳（中）、國家資通安全研究院院長何全德（左）、立陶宛駐台貿易代表處代表 Paulius Lukauskas（右）坐在數位發展部會議室內一起鼓掌。](https://pbs.twimg.com/media/Fxiztu6akAAK3CS?format=jpg&name=small)
 ![現場與會者及線上與會者一起參與會議的全貌](https://pbs.twimg.com/media/Fxi3LfiaYAQ-qo0?format=jpg&name=small)
-![會議線上與會者畫面翻拍](https://pbs.twimg.com/media/Fxi3WNaakAIX9p1?format=jpg&name=small)
+![線上與會者畫面翻拍](https://pbs.twimg.com/media/Fxi3WNaakAIX9p1?format=jpg&name=small)
 ([來源](https://twitter.com/TAIWANmoda/status/1664282392981536772))
 
 #### 替代文字範例
 
 > 數位發展部長唐鳳（中）、國家資通安全研究院院長何全德（左）、立陶宛駐台貿易代表處代表 Paulius Lukauskas（右）坐在數位發展部會議室內一起鼓掌。
 
-> 會議全貌，現場與會者包括數位發展部長及人員、國家資通安全研究院院長及人員、立陶宛駐台貿易代表處代表，牆上大型螢幕顯示遠端線上與會人員。
+> 參與人員全貌，現場與會者包括數位發展部長及人員、國家資通安全研究院院長及人員、立陶宛駐台貿易代表處代表，牆上大型螢幕顯示遠端線上與會人員。
 
-> 會議線上與會者畫面翻拍，包括數位發展部長、國家資通安全研究院院長、立陶宛駐台貿易代表處代表等人（左上）、立陶宛經濟及創新部及創新署人員（右上）、立陶宛「教師領導科技」人員代表（下）。
+> 線上與會者畫面翻拍，包括數位發展部長、國家資通安全研究院院長、立陶宛駐台貿易代表處代表等人（左上）、立陶宛經濟及創新部及創新署人員（右上）、立陶宛「教師領導科技」人員代表（下）。
 
 #### 解析討論
 
+第一張照片除了入鏡三人，她／他們的動作（鼓掌）也是重要的視覺資訊，呼應推文內容：
 
+> Signed, sealed & applauded!
+
+[這則推文](https://twitter.com/TAIWANmoda/status/1664282392981536772)實際使用的替代文字包含了無法從照片中看出的資訊：
+
+> ... in applauding the first Taiwan-Lithuania e-signed cooperation pact during a ceremony at moda HQ in Taipei.
+
+雖然符合事實，也替這張照片增添更多情境線索，但應該謹慎考慮是否需要在替代文字裡加上這些內容。
+
+第二張照片的替代文字直接點破這張照片的溝通意圖，讓閱聽者理解參與者同時包含實體出席及線上出席。[這則推文](https://twitter.com/TAIWANmoda/status/1664282392981536772)實際使用的替代文字遺漏牆上投影畫面也有線上參與者，稍嫌不足。
+
+第三張照片是投影畫面的翻拍，線上與會者分成三個視訊畫面，替代文字可以描述這三個畫面的空間分布。
 
 ---
 
