@@ -42,6 +42,14 @@
 
 #### 解析討論
 
+這張圖片乍看是單純只有文字的圖，實際上有兩個挑戰：其一是圖片內的文字跟[推文文字](https://twitter.com/TAIWANmoda/status/1662991159965388800)很難看出關係，其二是圖片內的文字有兩種樣式，表示這兩組文字的「階級」不同。
+
+針對第一個挑戰，如果有辦法知道這段文字的確切出處，寫進替代文字可以幫助眾多閱聽者；如果因故無法確認出處，只知道是一段引述，權衡之下也可以寫成：
+
+> 一段引言。<br><br>標題：<br>...
+
+至於第二個挑戰，只要把「標題」跟「內文」分別描述即可。
+
 ---
 
 </details>
@@ -61,7 +69,7 @@
 
 #### 替代文字範例
 
-> TGC 網頁畫面截圖，列出就業金卡的其他資格條件：<br><br>2. Previously or currently holding a position in a digital economy-related industry or field in another country or in Taiwan with a most recent monthly salary of at least NT$160,000.<br><br>3. The person has graduated with a doctorate from one of the top 500 universities listed in the most recent QS World University Rankings, Times Higher Education World University Rankings, or U.S. News & World Report Rankings.<br><br>4. Those with expertise in the products or services required in the digital economy-related industries or fields, have obtained a doctoral degree in related fields at a domestic or foreign university, and have either received domestic or foreign awards recognized by the Ministry of Digital Affairs, or have more than four years of work experience in related fields.
+> TGC 網頁畫面截圖，列出就業金卡的其他資格條件：<br><br>2. Previously or currently holding a position in a digital economy-related industry or field in another country or in Taiwan with a most recent monthly salary of at least NT$160,000.<br><br>3. The person has graduated with a doctorate from one of the top 500 universities listed in the most recent QS World University Rankings, Times Higher Education World University Rankings, or U.S. News & World Report Rankings.<br><br>4. Those with expertise in the products or services required in the digital economy-related industries or fields, have obtained a doctoral degree in related fields at a domestic or foreign university, and have either received domestic or foreign awards recognized by the Ministry of Digital Affairs, or have more than four years of work experience in related fields.<br><br>網頁列出的各項資格條件，皆可展開揭露詳細的辦理方式。
 
 #### 解析討論
 
@@ -579,6 +587,7 @@
 - 通常社群媒體圖片能夠「關聯」文字內容的機制較受限，例如無法使用 `<figure>` 及 `<figcaption>` 加上圖說文字。
 - 通常社群媒體圖片無法設定成可被輔助科技忽略的狀態，因此無法隱藏純粹裝飾用的圖片，暗示所有圖片皆有某些實質意義或功能。
 - 通常一則社群媒體發文能夠附加的圖片數量有限，圖片在某些情況可能被平台以裁切後的樣貌呈現，或強制縮放呈現。
+- 通常社群媒體圖片及圖片替代文字在發佈後，不容易反覆編修、抽換。
 
 本指引即基於上述這些特性，提供範例及討論說明。對於非社群媒體的平台，同一張圖片也許有其他更適合的替代文字寫法。
 
