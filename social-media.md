@@ -44,11 +44,13 @@
 
 這張圖片乍看是單純只有文字的圖，實際上有兩個挑戰：其一是圖片內的文字跟[推文文字](https://twitter.com/TAIWANmoda/status/1662991159965388800)很難看出關係，其二是圖片內的文字有兩種樣式，表示這兩組文字的「階級」不同。
 
-針對第一個挑戰，如果有辦法知道這段文字的確切出處，寫進替代文字可以幫助眾多閱聽者；如果因故無法確認出處，只知道是一段引述，權衡之下也可以寫成：
+針對第一個挑戰，如果有辦法知道這段文字的確切出處，寫進替代文字可以幫助眾多閱聽者。至於第二個挑戰，只要把「標題」跟「內文」分別描述即可。
 
-> 一段引言。<br><br>標題：<br>...
+[這則推文](https://twitter.com/TAIWANmoda/status/1662991159965388800)實際採用的替代文字完全沒有描述圖片內容：
 
-至於第二個挑戰，只要把「標題」跟「內文」分別描述即可。
+> The Ministry of Digital Affairs is leading the participation of Taiwan in the Collective Intelligence Project's Alignment Assemblies people-centric approach to developing artificial intelligence for the greater good.
+
+雖然看起來這段替代文字想要「解釋」或「抒發」這張圖片的象徵性意義，但對於仰賴替代文字的閱聽者而言，這種寫法會產生嚴重的困惑，破壞平等參與的機會，請避免這樣的替代文字。
 
 ---
 
